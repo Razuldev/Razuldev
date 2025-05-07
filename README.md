@@ -12,7 +12,7 @@ Welcome to my digital corner on GitHub! I'm a passionate **Data Scientist** and 
 ---
 
 ### 📄 Resume / CV
-[![CV](https://img.shields.io/badge/View%20My%20CV-Click%20Here-blue?style=for-the-badge&logo=readthedocs)](https://docs.google.com/document/d/1b9wv7VrqNRTBSGJ17qAZ-TdMd5cjj7aL/edit?usp=drive_link&ouid=101522686282185368823&rtpof=true&sd=true)
+[![CV](https://img.shields.io/badge/View%20My%20CV-Click%20Here-blue?style=for-the-badge&logo=readthedocs)](https://drive.google.com/file/d/1OmdhGvtHyJJqwF3zwh1covyuKlbqNcSb/view?usp=drive_link)
 
 <!-- CV-nin linkini yuxarıdakı hissədə "https://your-link.com" yerinə qoy -->
 
