@@ -11,6 +11,16 @@ Welcome to my digital corner on GitHub! I'm a passionate **Data Scientist** and 
 
 ---
 
+### 📄 Resume / CV
+[![CV](https://img.shields.io/badge/View%20My%20CV-Click%20Here-blue?style=for-the-badge&logo=readthedocs)](https://docs.google.com/document/d/1b9wv7VrqNRTBSGJ17qAZ-TdMd5cjj7aL/edit?usp=drive_link&ouid=101522686282185368823&rtpof=true&sd=true)
+
+<!-- CV-nin linkini yuxarıdakı hissədə "https://your-link.com" yerinə qoy -->
+
+---
+
+
+---
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@rasul.sadigli) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:rasulsadigli1@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasul-sadigli) 
 
