@@ -1,3 +1,10 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UserAAR/UserAAR/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UserAAR/UserAAR/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/UserAAR/UserAAR/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 # 💫 About Me:
 🔭 I’m currently working on building AI and robotics projects that combine creativity with real-world impact.<br>🤝 I’m looking for help with scaling innovative ideas into meaningful and sustainable products.<br>🌱 I’m currently learning Machine Learning and Deep Learning.<br>💬 Ask me about Python, C++, Machine Learning, model optimization, or turning late-night ideas into prototypes.<br>⚡ Fun fact: My robots don’t sleep… and neither do my ideas.
 
