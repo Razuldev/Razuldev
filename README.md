@@ -177,94 +177,6 @@ Build something useful
 
 ---
 
-# 🧪 How I Approach Projects
-
-I prefer projects with technical depth rather than isolated demos.
-
-```text
-        REAL PROBLEM
-             │
-             ▼
-        Understand it
-             │
-             ▼
-       Build a prototype
-             │
-             ▼
-       Measure the result
-             │
-             ▼
-        Find bottlenecks
-             │
-             ▼
-          Optimize
-             │
-             ▼
-       Make it useful
-```
-
-The most interesting projects to me sit at the intersection of:
-
-**Software + AI + Data + Hardware + Automation**
-
----
-
-# 📚 Learning Path
-
-My current learning direction is centered around **Machine Learning and Deep Learning**, with an emphasis on understanding the engineering process rather than only using prebuilt models.
-
-```text
-Problem Definition
-        ↓
-Data Collection / Understanding
-        ↓
-Exploration
-        ↓
-Representation / Features
-        ↓
-Model Development
-        ↓
-Evaluation
-        ↓
-Optimization
-        ↓
-Deployment / Integration
-        ↓
-Real-World Feedback
-```
-
-### Current priority
-
-```text
-Machine Learning
-      ↓
-Deep Learning
-      ↓
-Computer Vision
-      ↓
-Model Optimization
-      ↓
-Production-Oriented AI
-```
-
----
-
-# 🚀 What You'll Find on My GitHub
-
-My repositories are a mix of:
-
-- 🤖 AI and Machine Learning experiments
-- 🦾 Robotics and hardware-oriented projects
-- 👁️ Computer Vision prototypes
-- 📊 Data analysis and visualization
-- 🌐 Web applications
-- 🧪 Engineering experiments
-- 🛠️ Practical developer tools
-- 💡 Ideas developed into working prototypes
-
-Not every repository is intended to be a final product. Some exist to document experimentation, learning, benchmarking, or a technical idea being pushed toward implementation.
-
----
 
 # 📊 GitHub Statistics
 
@@ -274,35 +186,11 @@ Not every repository is intended to be a final product. Some exist to document e
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Razuldev&hide_border=true&theme=transparent" alt="GitHub contribution streak">
+<img src="https://streak-stats.demolab.com?user=Razuldev&starting_year=2016&hide_border=true&theme=transparent" alt="GitHub contribution streak">
 
 <br><br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Razuldev&layout=compact&langs_count=10&hide_border=true&theme=transparent" alt="Top languages">
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Razuldev&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph">
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Razuldev/Razuldev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Razuldev/Razuldev/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Razuldev/Razuldev/output/github-contribution-grid-snake.svg">
-</picture>
 
 </div>
 
@@ -322,56 +210,6 @@ Not every repository is intended to be a final product. Some exist to document e
 
 ---
 
-# 💬 Ask Me About
-
-```text
-Python
-C++
-Machine Learning
-Deep Learning
-Computer Vision
-Model Optimization
-Robotics
-AI Prototyping
-Data Analysis
-Turning ideas into working systems
-```
-
----
-
-# 🤝 Collaboration
-
-I'm especially interested in collaborating on technically meaningful projects involving:
-
-**AI · Machine Learning · Robotics · Computer Vision · Intelligent Automation · Hardware/Software Integration · Applied Research**
-
-I value collaboration where ideas are tested through implementation, measurement, iteration, and honest technical feedback.
-
----
-
-# ⚡ Beyond Code
-
-I like the engineering loop itself:
-
-```text
-Question
-   ↓
-Experiment
-   ↓
-Failure
-   ↓
-Debug
-   ↓
-Understand
-   ↓
-Improve
-   ↓
-Repeat
-```
-
-> **My robots don't sleep. Neither do my ideas.**
-
----
 
 # 🎯 Long-Term Direction
 
@@ -380,10 +218,10 @@ Repeat
                      /  \
                     /    \
                    /      \
-          MACHINE LEARNING  ROBOTICS
-                   \        /
-                    \      /
-                     \    /
+            MACHINE LEARNING  ROBOTICS
+                   \       /
+                    \     /
+                     \   /
                     SOFTWARE
                        │
                        ▼
