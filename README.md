@@ -40,31 +40,31 @@ I enjoy building practical projects, learning new technologies, and turning idea
 ## Languages
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,python,typescript,javascript,java,kotlin,cs,r&titles=true" alt="Programming languages">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,python,typescript,javascript,kotlin" alt="Programming languages">
 </p>
 
 ## AI / ML / Data
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,scikitlearn,tensorflow,opencv,scipy,matplotlib,mlflow&titles=true" alt="AI, machine learning and data technologies">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn,tensorflow,opencv,pytorch,mlflow&titles=true" alt="AI, machine learning and data technologies">
 </p>
 
 ## Frameworks & Application Development
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=django,react,nextjs,flask,bootstrap,html,css,postman&titles=true" alt="Frameworks and application development technologies">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=django,react,nextjs,html,css" alt="Frameworks and application development technologies">
 </p>
 
 ## Databases / Cloud / Platforms
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,oracle,mongodb,supabase,firebase,aws,vercel,netlify&titles=true" alt="Databases, cloud and platforms">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,oracle,supabase,aws,vercel" alt="Databases, cloud and platforms">
 </p>
 
 ## Tools & DevOps
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,git,github,gitlab,powershell,latex,anaconda,windows&titles=true" alt="Developer tools and DevOps">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,powershell,anaconda,docker" alt="Developer tools and DevOps">
 </p>
 
 
