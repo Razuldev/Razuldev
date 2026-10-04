@@ -28,95 +28,50 @@
 
 # 👋 About Me
 
-I'm **Rasul Sadigli**, a developer focused on building software and intelligent systems at the intersection of **AI, robotics, machine learning, and practical engineering**.
+I'm **Rasul Sadigli**, a developer interested in **AI, robotics, machine learning, and software engineering**.
 
-I enjoy taking ideas from concept to prototype and then improving them through experimentation, optimization, and iteration.
+I enjoy building practical projects, learning new technologies, and turning ideas into working solutions.
 
-```text
-Idea
-  ↓
-Research
-  ↓
-Prototype
-  ↓
-Measure
-  ↓
-Optimize
-  ↓
-Build something useful
-```
+### 🔭 Currently
 
-### 🔭 Current Direction
-
-- 🤖 Building AI and robotics projects with real-world applications
-- 🧠 Studying Machine Learning and Deep Learning
-- 👁️ Exploring Computer Vision and practical image-processing systems
-- ⚙️ Learning model optimization and performance-focused engineering
-- 🚀 Exploring how technical prototypes can evolve into useful and sustainable products
-
+- 🤖 Building AI & robotics projects
+- 🧠 Learning Machine Learning & Deep Learning
+- 👁️ Exploring Computer Vision
+- ⚙️ Working on model optimization and real-world applications
 ---
 
 # 💻 Tech Stack
 
 ## Languages
 
-<p>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript">
-<img src="https://img.shields.io/badge/AssemblyScript-000000?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="AssemblyScript">
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,python,typescript,javascript,java,kotlin,cs,r&titles=true" alt="Programming languages">
 </p>
 
 ## AI / ML / Data
 
-<p>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
-<img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy">
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow">
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,scikitlearn,tensorflow,opencv,scipy,matplotlib,mlflow&titles=true" alt="AI, machine learning and data technologies">
 </p>
 
-## Web & Application Development
+## Frameworks & Application Development
 
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-<img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=django,react,nextjs,flask,bootstrap,html,css,postman&titles=true" alt="Frameworks and application development technologies">
 </p>
 
 ## Databases / Cloud / Platforms
 
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server">
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=0B1220" alt="Supabase">
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=111111" alt="Firebase">
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-<img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Netlify">
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,oracle,mongodb,supabase,firebase,aws,vercel,netlify&titles=true" alt="Databases, cloud and platforms">
 </p>
 
-## Tools
+## Tools & DevOps
 
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
-<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX">
-<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda">
-<img src="https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal">
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,git,github,gitlab,powershell,latex,anaconda,windows&titles=true" alt="Developer tools and DevOps">
 </p>
+
 
 ---
 
@@ -125,15 +80,7 @@ Build something useful
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Razuldev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" alt="GitHub statistics">
-
-<br><br>
-
 <img src="https://streak-stats.demolab.com?user=Razuldev&starting_year=2016&hide_border=true&theme=transparent" alt="GitHub contribution streak">
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Razuldev&layout=compact&langs_count=10&hide_border=true&theme=transparent" alt="Top languages">
 
 </div>
 
