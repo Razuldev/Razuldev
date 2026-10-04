@@ -1,30 +1,417 @@
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Razuldev/Razuldev/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Razuldev/Razuldev/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Razuldev/Razuldev/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Razuldev/Razuldev/output/github-contribution-grid-snake.svg">
 </picture>
 
+<br>
 
-# 💫 About Me:
-🔭 I’m currently working on building AI and robotics projects that combine creativity with real-world impact.<br>🤝 I’m looking for help with scaling innovative ideas into meaningful and sustainable products.<br>🌱 I’m currently learning Machine Learning and Deep Learning.<br>💬 Ask me about Python, C++, Machine Learning, model optimization, or turning late-night ideas into prototypes.<br>⚡ Fun fact: My robots don’t sleep… and neither do my ideas.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=AI+%7C+Robotics+%7C+Machine+Learning;Building+ideas+into+real-world+systems;Python+%7C+C%2B%2B+%7C+TypeScript;Learn+%E2%86%92+Build+%E2%86%92+Optimize+%E2%86%92+Ship" alt="Typing introduction">
 
+<br>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rasul.sadigli) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasul-sadigli/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Zestyclose_Town5086/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rasulsadigli1@gmail.com) 
+<a href="https://github.com/Razuldev"><img src="https://img.shields.io/badge/GitHub-Razuldev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/rasul-sadigli/"><img src="https://img.shields.io/badge/LinkedIn-Rasul%20Sadigli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:rasulsadigli1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Razuldev&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Razuldev&theme=codeSTACKr&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Razuldev&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br><br>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://img.shields.io/badge/Focus-AI%20%26%20Robotics-1f6feb?style=flat-square" alt="Focus">
+<img src="https://img.shields.io/badge/Learning-Machine%20Learning-ff7b72?style=flat-square" alt="Learning">
+<img src="https://img.shields.io/badge/Building-Real--World%20Systems-3fb950?style=flat-square" alt="Building">
 
-
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Razuldev&icon=5&color=7)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👋 About Me
+
+I'm **Rasul Sadigli**, a developer focused on building software and intelligent systems at the intersection of **AI, robotics, machine learning, and practical engineering**.
+
+I enjoy taking ideas from concept to prototype and then improving them through experimentation, optimization, and iteration.
+
+```text
+Idea
+  ↓
+Research
+  ↓
+Prototype
+  ↓
+Measure
+  ↓
+Optimize
+  ↓
+Build something useful
+```
+
+### 🔭 Current Direction
+
+- 🤖 Building AI and robotics projects with real-world applications
+- 🧠 Studying Machine Learning and Deep Learning
+- 👁️ Exploring Computer Vision and practical image-processing systems
+- ⚙️ Learning model optimization and performance-focused engineering
+- 🚀 Exploring how technical prototypes can evolve into useful and sustainable products
+
+---
+
+# 🧠 Engineering Interests
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI & Machine Learning
+
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Model optimization
+- Applied AI
+- Data-driven experimentation
+
+</td>
+<td width="50%">
+
+### ⚙️ Robotics & Systems
+
+- Robotics
+- Sensor-based systems
+- Hardware/software integration
+- Automation
+- Embedded-oriented projects
+- Real-world prototyping
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💻 Software Engineering
+
+- Application development
+- System thinking
+- Performance optimization
+- Backend and web technologies
+- Experiment-driven development
+
+</td>
+<td width="50%">
+
+### 🚀 Product Engineering
+
+- Turning ideas into prototypes
+- Iterative development
+- Practical problem solving
+- Building measurable solutions
+- Connecting technology with real use cases
+
+</td>
+</tr>
+</table>
+
+---
+
+# 💻 Tech Stack
+
+## Languages
+
+<p>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript">
+<img src="https://img.shields.io/badge/AssemblyScript-000000?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="AssemblyScript">
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
+</p>
+
+## AI / ML / Data
+
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+<img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy">
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow">
+</p>
+
+## Web & Application Development
+
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+<img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+</p>
+
+## Databases / Cloud / Platforms
+
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server">
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=0B1220" alt="Supabase">
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=111111" alt="Firebase">
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+<img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Netlify">
+</p>
+
+## Tools
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
+<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX">
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda">
+<img src="https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal">
+</p>
+
+---
+
+# 🧪 How I Approach Projects
+
+I prefer projects with technical depth rather than isolated demos.
+
+```text
+        REAL PROBLEM
+             │
+             ▼
+        Understand it
+             │
+             ▼
+       Build a prototype
+             │
+             ▼
+       Measure the result
+             │
+             ▼
+        Find bottlenecks
+             │
+             ▼
+          Optimize
+             │
+             ▼
+       Make it useful
+```
+
+The most interesting projects to me sit at the intersection of:
+
+**Software + AI + Data + Hardware + Automation**
+
+---
+
+# 📚 Learning Path
+
+My current learning direction is centered around **Machine Learning and Deep Learning**, with an emphasis on understanding the engineering process rather than only using prebuilt models.
+
+```text
+Problem Definition
+        ↓
+Data Collection / Understanding
+        ↓
+Exploration
+        ↓
+Representation / Features
+        ↓
+Model Development
+        ↓
+Evaluation
+        ↓
+Optimization
+        ↓
+Deployment / Integration
+        ↓
+Real-World Feedback
+```
+
+### Current priority
+
+```text
+Machine Learning
+      ↓
+Deep Learning
+      ↓
+Computer Vision
+      ↓
+Model Optimization
+      ↓
+Production-Oriented AI
+```
+
+---
+
+# 🚀 What You'll Find on My GitHub
+
+My repositories are a mix of:
+
+- 🤖 AI and Machine Learning experiments
+- 🦾 Robotics and hardware-oriented projects
+- 👁️ Computer Vision prototypes
+- 📊 Data analysis and visualization
+- 🌐 Web applications
+- 🧪 Engineering experiments
+- 🛠️ Practical developer tools
+- 💡 Ideas developed into working prototypes
+
+Not every repository is intended to be a final product. Some exist to document experimentation, learning, benchmarking, or a technical idea being pushed toward implementation.
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Razuldev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" alt="GitHub statistics">
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Razuldev&hide_border=true&theme=transparent" alt="GitHub contribution streak">
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Razuldev&layout=compact&langs_count=10&hide_border=true&theme=transparent" alt="Top languages">
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Razuldev&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph">
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Razuldev/Razuldev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Razuldev/Razuldev/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Razuldev/Razuldev/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+# 🌐 Socials
+
+<div align="center">
+
+<a href="https://github.com/Razuldev"><img src="https://img.shields.io/badge/GitHub-Razuldev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/rasul-sadigli/"><img src="https://img.shields.io/badge/LinkedIn-Rasul%20Sadigli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://instagram.com/rasul.sadigli"><img src="https://img.shields.io/badge/Instagram-rasul.sadigli-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.reddit.com/user/Zestyclose_Town5086/"><img src="https://img.shields.io/badge/Reddit-Profile-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"></a>
+<a href="mailto:rasulsadigli1@gmail.com"><img src="https://img.shields.io/badge/Email-rasulsadigli1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+
+</div>
+
+---
+
+# 💬 Ask Me About
+
+```text
+Python
+C++
+Machine Learning
+Deep Learning
+Computer Vision
+Model Optimization
+Robotics
+AI Prototyping
+Data Analysis
+Turning ideas into working systems
+```
+
+---
+
+# 🤝 Collaboration
+
+I'm especially interested in collaborating on technically meaningful projects involving:
+
+**AI · Machine Learning · Robotics · Computer Vision · Intelligent Automation · Hardware/Software Integration · Applied Research**
+
+I value collaboration where ideas are tested through implementation, measurement, iteration, and honest technical feedback.
+
+---
+
+# ⚡ Beyond Code
+
+I like the engineering loop itself:
+
+```text
+Question
+   ↓
+Experiment
+   ↓
+Failure
+   ↓
+Debug
+   ↓
+Understand
+   ↓
+Improve
+   ↓
+Repeat
+```
+
+> **My robots don't sleep. Neither do my ideas.**
+
+---
+
+# 🎯 Long-Term Direction
+
+```text
+                      AI
+                     /  \
+                    /    \
+                   /      \
+          MACHINE LEARNING  ROBOTICS
+                   \        /
+                    \      /
+                     \    /
+                    SOFTWARE
+                       │
+                       ▼
+              REAL-WORLD IMPACT
+```
+
+The long-term objective is to become stronger at building **intelligent, efficient, and useful systems** — not just isolated models or isolated applications.
+
+---
+
+<div align="center">
+
+## Build. Learn. Optimize. Repeat.
+
+<br>
+
+<a href="https://github.com/Razuldev?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories">
+</a>
+
+<br><br>
+
+<sub>Living developer profile · continuously evolving with the work</sub>
+
+</div>
+
+<!--
+  Maintainer note:
+  Keep this README focused on current capabilities and real work.
+  Prefer a small number of strong sections over a wall of badges.
+-->
