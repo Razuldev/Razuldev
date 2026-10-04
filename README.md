@@ -56,63 +56,6 @@ Build something useful
 
 ---
 
-# 🧠 Engineering Interests
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 AI & Machine Learning
-
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Model optimization
-- Applied AI
-- Data-driven experimentation
-
-</td>
-<td width="50%">
-
-### ⚙️ Robotics & Systems
-
-- Robotics
-- Sensor-based systems
-- Hardware/software integration
-- Automation
-- Embedded-oriented projects
-- Real-world prototyping
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 💻 Software Engineering
-
-- Application development
-- System thinking
-- Performance optimization
-- Backend and web technologies
-- Experiment-driven development
-
-</td>
-<td width="50%">
-
-### 🚀 Product Engineering
-
-- Turning ideas into prototypes
-- Iterative development
-- Practical problem solving
-- Building measurable solutions
-- Connecting technology with real use cases
-
-</td>
-</tr>
-</table>
-
----
-
 # 💻 Tech Stack
 
 ## Languages
@@ -210,23 +153,6 @@ Build something useful
 
 ---
 
-
-# 🎯 Long-Term Direction
-
-```text
-                      AI
-                     /  \
-                    /    \
-                   /      \
-            MACHINE LEARNING  ROBOTICS
-                   \       /
-                    \     /
-                     \   /
-                    SOFTWARE
-                       │
-                       ▼
-              REAL-WORLD IMPACT
-```
 
 The long-term objective is to become stronger at building **intelligent, efficient, and useful systems** — not just isolated models or isolated applications.
 
