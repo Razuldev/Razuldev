@@ -11,16 +11,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=AI+%7C+Robotics+%7C+Machine+Learning;Building+ideas+into+real-world+systems;Python+%7C+C%2B%2B+%7C+TypeScript;Learn+%E2%86%92+Build+%E2%86%92+Optimize+%E2%86%92+Ship" alt="Typing introduction">
 
 <br>
-
-<a href="https://github.com/Razuldev"><img src="https://img.shields.io/badge/GitHub-Razuldev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://www.linkedin.com/in/rasul-sadigli/"><img src="https://img.shields.io/badge/LinkedIn-Rasul%20Sadigli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:rasulsadigli1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Focus-AI%20%26%20Robotics-1f6feb?style=flat-square" alt="Focus">
-<img src="https://img.shields.io/badge/Learning-Machine%20Learning-ff7b72?style=flat-square" alt="Learning">
-<img src="https://img.shields.io/badge/Building-Real--World%20Systems-3fb950?style=flat-square" alt="Building">
+<a href="https://www.linkedin.com/in/rasul-sadigli/"><img width ='32px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/social%20media%20icons/linkedin-icon.svg'></a>
+  &nbsp;
+<a href="https://www.instagram.com/rasul.sadigli/"><img width ='32px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/social%20media%20icons/instagram-icon.svg'></a>
+  &nbsp;
+<a href="mailto:rasulsadigli1@gmail.com"><img width ='36px' src ='https://github.com/UserAAR/UserAAR/blob/main/icons8-gmail.svg'></a>
 
 </div>
 
@@ -73,7 +68,12 @@ I enjoy building practical projects, learning new technologies, and turning idea
 </p>
 
 
+
+
+
 ---
+
+
 
 
 # 📊 GitHub Statistics
@@ -84,24 +84,6 @@ I enjoy building practical projects, learning new technologies, and turning idea
 
 </div>
 
----
-
-# 🌐 Socials
-
-<div align="center">
-
-<a href="https://github.com/Razuldev"><img src="https://img.shields.io/badge/GitHub-Razuldev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://www.linkedin.com/in/rasul-sadigli/"><img src="https://img.shields.io/badge/LinkedIn-Rasul%20Sadigli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://instagram.com/rasul.sadigli"><img src="https://img.shields.io/badge/Instagram-rasul.sadigli-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.reddit.com/user/Zestyclose_Town5086/"><img src="https://img.shields.io/badge/Reddit-Profile-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"></a>
-<a href="mailto:rasulsadigli1@gmail.com"><img src="https://img.shields.io/badge/Email-rasulsadigli1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-
-</div>
-
----
-
-
-The long-term objective is to become stronger at building **intelligent, efficient, and useful systems** — not just isolated models or isolated applications.
 
 ---
 
@@ -110,17 +92,12 @@ The long-term objective is to become stronger at building **intelligent, efficie
 ## Build. Learn. Optimize. Repeat.
 
 <br>
-
 <a href="https://github.com/Razuldev?tab=repositories">
   <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories">
 </a>
-
 <br><br>
-
 <sub>Living developer profile · continuously evolving with the work</sub>
-
 </div>
-
 <!--
   Maintainer note:
   Keep this README focused on current capabilities and real work.
